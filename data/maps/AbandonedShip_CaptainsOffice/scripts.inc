@@ -23,19 +23,19 @@ AbandonedShip_CaptainsOffice_EventScript_ThisIsSSCactus::
 	end
 
 AbandonedShip_CaptainsOffice_Text_NoSuccessFindingScanner:
-	.string "I'm investigating this ship on behalf\n"
-	.string "of CAPT. STERN.\p"
-	.string "He also asked me to find a SCANNER,\n"
-	.string "but I haven't had any success…$"
+	.string "Estoy investigando este barco en nombre\n"
+	.string "del CAP. STERN.\p"
+	.string "También me pidió que encontrara un ESCÁNER,\n"
+	.string "pero no he tenido éxito…$"
 
 AbandonedShip_CaptainsOffice_Text_OhCanYouDeliverScanner:
-	.string "Oh! That's a SCANNER!\p"
-	.string "Listen, can I get you to deliver that\n"
-	.string "to CAPT. STERN?\p"
-	.string "I want to investigate this ship a\n"
-	.string "little more.$"
+	.string "¡Oh! ¡Eso es un ESCÁNER!\p"
+	.string "Escucha, ¿podrías llevarle eso\n"
+	.string "al CAP. STERN?\p"
+	.string "Quiero investigar un poco más\n"
+	.string "este barco.$"
 
 AbandonedShip_CaptainsOffice_Text_ThisIsSSCactus:
-	.string "This ship is called S.S. CACTUS.\n"
-	.string "It seems to be from an earlier era.$"
+	.string "Este barco se llama S.S. CACTUS.\n"
+	.string "Parece ser de una época anterior.$"
 

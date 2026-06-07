@@ -287,67 +287,68 @@ Route103_EventScript_Isabelle::
 	end
 
 Route103_Text_MayRoute103Pokemon:
-	.string "MAY: Let's see… The POKéMON found\n"
-	.string "on ROUTE 103 include…$"
+	.string "AURA: Veamos… Los Pokémon que se\n"
+	.string "encuentran en la RUTA 103 incluyen…$"
 
 Route103_Text_MayLetsBattle:
-	.string "Oh, hi, {PLAYER}{KUN}!\p"
-	.string "…Oh, I see, my dad gave you\n"
-	.string "a POKéMON as a gift.\p"
-	.string "Since we're here, let's have a quick\n"
-	.string "battle!\p"
-	.string "I'll give you a taste of what being\n"
-	.string "a TRAINER is like.$"
+	.string "¡Oh, hola, {PLAYER}{KUN}!\p"
+	.string "…Oh, ya veo, mi papá te dio un\n"
+	.string "Pokémon como regalo.\p"
+	.string "Ya que estamos aquí, ¡tengamos un\n"
+	.string "combate rápido!\p"
+	.string "Te daré una muestra de lo que es ser\n"
+	.string "entrenador.$"
 
 Route103_Text_MayDefeated:
-	.string "Wow! That's great!\n"
-	.string "{PLAYER}{KUN}, you're pretty good!$"
+	.string "¡Guau! ¡Eso es genial!\n"
+	.string "¡{PLAYER}{KUN}, eres bastante bueno!$"
 
 Route103_Text_MayTimeToHeadBack:
-	.string "MAY: I think I know why my dad has\n"
-	.string "an eye out for you now.\p"
-	.string "I mean, you just got that POKéMON,\n"
-	.string "but it already likes you.\p"
-	.string "You might be able to befriend any\n"
-	.string "kind of POKéMON easily.\p"
-	.string "Well, it's time to head back to\n"
-	.string "the LAB.$"
+	.string "AURA: Creo que sé por qué mi papá\n"
+	.string "te tiene en cuenta ahora.\p"
+	.string "Quiero decir, acabas de recibir ese\n"
+	.string "Pokémon, pero ya le caes bien.\p"
+	.string "Podrías ser capaz de hacerte amigo de\n"
+	.string "cualquier tipo de Pokémon fácilmente.\p"
+	.string "Bueno, es hora de volver al\n"
+	.string "LABORATORIO.$"
 
 Route103_Text_BrendanRoute103Pokemon:
-	.string "BRENDAN: Okay, so it's this one and\n"
-	.string "that one that live on ROUTE 103…$"
+	.string "BRUNO: Vale, así que es este y aquel\n"
+	.string "los que viven en la RUTA 103…$"
 
 Route103_Text_BrendanLetsBattle:
-	.string "Hey, it's {PLAYER}!\p"
-	.string "…Oh, yeah, Dad gave you a POKéMON.\p"
-	.string "Since we're here, how about a little\n"
-	.string "battle?\p"
-	.string "I'll teach you what being a TRAINER's\n"
-	.string "about!$"
+	.string "¡Eh, es {PLAYER}!\p"
+	.string "…Oh, sí, Papá te dio un Pokémon.\p"
+	.string "Ya que estamos aquí, ¿qué tal un\n"
+	.string "pequeño combate?\p"
+	.string "¡Te enseñaré lo que es ser\n"
+	.string "entrenador!$"
 
 Route103_Text_BrendanDefeated:
-	.string "Huh, {PLAYER}, you're not too shabby.$"
+	.string "Eh, {PLAYER}, no estás nada mal.$"
 
 Route103_Text_BrendanTimeToHeadBack:
-	.string "BRENDAN: I think I get it.\n"
-	.string "I think I know why my dad has his eye\l"
-	.string "out for you now.\p"
-	.string "Look, your POKéMON already likes you,\n"
-	.string "even though you just got it.\p"
-	.string "{PLAYER}, I get the feeling that you\n"
-	.string "could befriend any POKéMON with ease.\p"
-	.string "We should head back to the LAB.$"
+	.string "BRUNO: Creo que lo entiendo.\n"
+	.string "Creo que sé por qué mi papá te tiene\l"
+	.string "en cuenta ahora.\p"
+	.string "Mira, tu Pokémon ya te quiere,\n"
+	.string "incluso acabas de recibirlo.\p"
+	.string "{PLAYER}, tengo la sensación de que\n"
+	.string "podrías hacerte amigo de cualquier\l"
+	.string "Pokémon con facilidad.\p"
+	.string "Deberíamos volver al LABORATORIO.$"
 
 Route103_Text_ShouldHaveBroughtPotion:
-	.string "My POKéMON is staggeringly tired…\n"
-	.string "I should have brought a POTION…$"
+	.string "Mi Pokémon está increíblemente cansado…\n"
+	.string "Debería haber traído una POCIÓN…$"
 
 Route103_Text_ShortcutToOldale:
-	.string "If you cross the sea from here,\n"
-	.string "it'll be a shortcut to OLDALE TOWN.\p"
-	.string "Fufufu, that's useful, isn't it?$"
+	.string "Si cruzas el mar desde aquí,\n"
+	.string "será un atajo hacia PUEBLO ESCASO.\p"
+	.string "Fufufu, es útil, ¿verdad?$"
 
 Route103_Text_RouteSign:
-	.string "ROUTE 103\n"
-	.string "{DOWN_ARROW} OLDALE TOWN$"
+	.string "RUTA 103\n"
+	.string "{DOWN_ARROW} PUEBLO ESCASO$"
 

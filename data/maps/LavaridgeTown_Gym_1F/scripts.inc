@@ -181,219 +181,223 @@ LavaridgeTown_Gym_1F_EventScript_GymStatue::
 	end
 
 LavaridgeTown_Gym_1F_Text_GymGuideAdvice:
-	.string "Hey, how's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
-	.string "LAVARIDGE's GYM LEADER FLANNERY\n"
-	.string "uses FIRE-type POKéMON.\p"
-	.string "Her passion for POKéMON burns stronger\n"
-	.string "and hotter than a volcano.\p"
-	.string "Don't get too close to her--you'll burn!\n"
-	.string "Hose her down with water and then\l"
-	.string "go for it!$"
+	.string "¡Eh, qué tal, {PLAYER}?\n"
+	.string "¿Con rumbo al Campeonato?\p"
+	.string "La líder del Gimnasio de Lavacalda,\n"
+	.string "Candela, usa Pokémon de tipo Fuego.\p"
+	.string "Su pasión por los Pokémon arde más\n"
+	.string "fuerte y más caliente que un volcán.\p"
+	.string "¡No te acerques demasiado o te\n"
+	.string "quemarás! ¡Rocíala con agua y luego\l"
+	.string "ataca!$"
 
 LavaridgeTown_Gym_1F_Text_GymGuidePostVictory:
-	.string "Yow! That was a scorching-hot battle!$"
+	.string "¡Guau! ¡Ha sido un combate\n"
+	.string "ardientísimo!$"
 
 LavaridgeTown_Gym_1F_Text_ColeIntro:
-	.string "Owowowowow!\n"
-	.string "Yikes, it's hot!$"
+	.string "¡Ayayayayay!\n"
+	.string "¡Qué calor!$"
 
 LavaridgeTown_Gym_1F_Text_ColeDefeat:
-	.string "I'm blinded by sweat in my eyes…$"
+	.string "Me ciega el sudor en los ojos…$"
 
 LavaridgeTown_Gym_1F_Text_ColePostBattle:
-	.string "Being buried in hot sand promotes\n"
-	.string "circulation.\p"
-	.string "It's effective for healing pain in\n"
-	.string "your joints.$"
+	.string "Estar enterrado en arena caliente\n"
+	.string "favorece la circulación.\p"
+	.string "Es efectivo para curar el dolor de\n"
+	.string "las articulaciones.$"
 
 LavaridgeTown_Gym_1F_Text_AxleIntro:
-	.string "I'm trying to relieve my stress.\n"
-	.string "Don't come along and stress me out!$"
+	.string "Estoy intentando aliviar mi estrés.\n"
+	.string "¡No vengas a estresarme más!$"
 
 LavaridgeTown_Gym_1F_Text_AxleDefeat:
-	.string "I hope FLANNERY flames you good!$"
+	.string "¡Espero que Candela te chamusque bien!$"
 
 LavaridgeTown_Gym_1F_Text_AxlePostBattle:
-	.string "Haaah… Whew…\p"
-	.string "If you spend too much time buried in\n"
-	.string "hot sand, it tuckers you out…$"
+	.string "Haaah… Uf…\p"
+	.string "Si pasas demasiado tiempo enterrado en\n"
+	.string "arena caliente, te agota…$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganIntro:
-	.string "You must be getting tired by now.\n"
-	.string "You'd like to rest in the hot sand,\l"
-	.string "wouldn't you?\p"
-	.string "But you should know that maintaining\n"
-	.string "your willpower is an important ability\l"
-	.string "for all TRAINERS.$"
+	.string "Debes de estar cansado ya.\n"
+	.string "Te gustaría descansar en la arena\l"
+	.string "caliente, ¿verdad?\p"
+	.string "Pero deberías saber que mantener la\n"
+	.string "fuerza de voluntad es una habilidad\l"
+	.string "importante para todos los entrenadores.$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganDefeat:
-	.string "Play with fire, and be burned…$"
+	.string "Juega con fuego y te quemarás…$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganPostBattle:
-	.string "Your skill is real…\n"
-	.string "But our LEADER FLANNERY is strong.\p"
-	.string "If you don't watch yourself, you'll be\n"
-	.string "burned seriously.$"
+	.string "Tus habilidades son reales…\n"
+	.string "Pero nuestra líder Candela es fuerte.\p"
+	.string "Si no tienes cuidado, te quemarás\n"
+	.string "gravemente.$"
 
 LavaridgeTown_Gym_1F_Text_GeraldIntro:
-	.string "Can your POKéMON withstand\n"
-	.string "392-degree heat?$"
+	.string "¿Pueden tus Pokémon soportar\n"
+	.string "392 grados de calor?$"
 
 LavaridgeTown_Gym_1F_Text_GeraldDefeat:
-	.string "It didn't burn hotly enough…$"
+	.string "No ardió lo suficientemente fuerte…$"
 
 LavaridgeTown_Gym_1F_Text_GeraldPostBattle:
-	.string "The temperature of magma is\n"
-	.string "392 degrees.\p"
-	.string "Your POKéMON beat me, so they should\n"
-	.string "easily survive in magma.$"
+	.string "La temperatura del magma es de\n"
+	.string "392 grados.\p"
+	.string "Tus Pokémon me han vencido, así que\n"
+	.string "deberían sobrevivir fácilmente en el\l"
+	.string "magma.$"
 
 LavaridgeTown_Gym_1F_Text_DanielleIntro:
-	.string "Um…\n"
-	.string "Okay, I'll battle with you.$"
+	.string "Em…\n"
+	.string "Vale, lucharé contigo.$"
 
 LavaridgeTown_Gym_1F_Text_DanielleDefeat:
-	.string "Oh, but you're too strong.$"
+	.string "Oh, pero eres demasiado fuerte.$"
 
 LavaridgeTown_Gym_1F_Text_DaniellePostBattle:
-	.string "I'm going to be a pretty and strong\n"
-	.string "TRAINER just like FLANNERY.$"
+	.string "Voy a ser una entrenadora bonita y\n"
+	.string "fuerte como Candela.$"
 
 LavaridgeTown_Gym_B1F_Text_JaceIntro:
-	.string "Come on, get with it!\n"
-	.string "Let's go before my feelings cool!$"
+	.string "¡Venga, espabila!\n"
+	.string "¡Vamos antes de que se me enfríen\l"
+	.string "los ánimos!$"
 
 LavaridgeTown_Gym_B1F_Text_JaceDefeat:
-	.string "It's so hot, and yet my heart is\n"
-	.string "clutched by ice…$"
+	.string "Hace tanto calor, y sin embargo mi\n"
+	.string "corazón está helado…$"
 
 LavaridgeTown_Gym_B1F_Text_JacePostBattle:
-	.string "The way the battling spirit burns\n"
-	.string "within you, you may stand a chance\l"
-	.string "against our LEADER.$"
+	.string "Con el espíritu de combate que arde\n"
+	.string "dentro de ti, puede que tengas una\l"
+	.string "oportunidad contra nuestra líder.$"
 
 LavaridgeTown_Gym_B1F_Text_JeffIntro:
-	.string "See how the flames blaze wildly?\n"
-	.string "They flare in anticipation of my win!$"
+	.string "¿Ves cómo las llamas arden con fuerza?\n"
+	.string "¡Se encienden anticipando mi victoria!$"
 
 LavaridgeTown_Gym_B1F_Text_JeffDefeat:
-	.string "Something didn't go right.$"
+	.string "Algo no ha salido bien.$"
 
 LavaridgeTown_Gym_B1F_Text_JeffPostBattle:
-	.string "Well, so what? I say so what?\n"
-	.string "I can walk on hot coals barefoot!\p"
-	.string "…Don't even think about trying it!$"
+	.string "Bueno, ¿y qué? ¿Y qué?\n"
+	.string "¡Puedo caminar sobre brasas descalzo!\p"
+	.string "…Ni se te ocurra intentarlo.$"
 
 LavaridgeTown_Gym_B1F_Text_EliIntro:
-	.string "As much as I love mountains,\n"
-	.string "I especially love volcanoes.$"
+	.string "Tanto como amo las montañas,\n"
+	.string "especialmente amo los volcanes.$"
 
 LavaridgeTown_Gym_B1F_Text_EliDefeat:
-	.string "Well, it seems to me I lost without\n"
-	.string "ever being in control.$"
+	.string "Bueno, me parece que he perdido sin\n"
+	.string "haber tenido nunca el control.$"
 
 LavaridgeTown_Gym_B1F_Text_EliPostBattle:
-	.string "I stay here because I became a fan\n"
-	.string "of FLANNERY's power.\p"
-	.string "Hehehehe.$"
+	.string "Me quedo aquí porque me convertí en\n"
+	.string "fan del poder de Candela.\p"
+	.string "Jejejeje.$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryIntro:
-	.string "Welcome… No, wait.\p"
-	.string "Puny TRAINER, how good to see you've\n"
-	.string "made it here!\p"
-	.string "I have been entrusted with the…\n"
-	.string "No, wait.\p"
-	.string "I am FLANNERY, and I'm the GYM\n"
-	.string "LEADER here!\p"
-	.string "Uh…\n"
-	.string "Dare not underestimate me, though\l"
-	.string "I have been LEADER only a short time!\p"
-	.string "With skills inherited from my grand-\n"
-	.string "father, I shall, uh…demonstrate the\l"
-	.string "hot moves we have honed on this land!$"
+	.string "Bienvenido… No, espera.\p"
+	.string "Pequeño entrenador, me alegra ver que\n"
+	.string "has llegado hasta aquí.\p"
+	.string "Se me ha confiado la…\n"
+	.string "No, espera.\p"
+	.string "¡Soy Candela, y soy la líder de\n"
+	.string "este Gimnasio!\p"
+	.string "Eh…\n"
+	.string "No te atrevas a subestimarme, aunque\l"
+	.string "lleve poco tiempo siendo líder.\p"
+	.string "Con las habilidades heredadas de mi\n"
+	.string "abuelo, voy a, eh… ¡demostrarte los\l"
+	.string "ardientes movimientos que hemos\l"
+	.string "perfeccionado en esta tierra!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryDefeat:
 	.string "Oh…\n"
-	.string "I guess I was trying too hard…\p"
-	.string "I… I've only recently become\n"
-	.string "a GYM LEADER.\p"
-	.string "I tried too hard to be someone\n"
-	.string "I'm not.\p"
-	.string "I have to do things my natural way. If\n"
-	.string "I don't, my POKéMON will be confused.\p"
-	.string "Thanks for teaching me that.\n"
-	.string "For that, you deserve this.$"
+	.string "Supongo que me he esforzado demasiado…\p"
+	.string "Yo… Solo recientemente me he\n"
+	.string "convertido en líder de Gimnasio.\p"
+	.string "Intenté demasiado ser alguien\n"
+	.string "que no soy.\p"
+	.string "Tengo que hacer las cosas a mi manera.\n"
+	.string "Si no, mis Pokémon se confundirán.\p"
+	.string "Gracias por enseñarme eso.\n"
+	.string "Por eso, te mereces esto.$"
 
 LavaridgeTown_Gym_1F_Text_ReceivedHeatBadge:
-	.string "{PLAYER} received the HEAT BADGE\n"
-	.string "from FLANNERY.$"
+	.string "¡{PLAYER} recibió la Medalla Calor\n"
+	.string "de Candela!$"
 
 LavaridgeTown_Gym_1F_Text_ExplainHeatBadgeTakeThis:
-	.string "If you have a HEAT BADGE, all POKéMON\n"
-	.string "up to Level 50, even those you get in\l"
-	.string "trades from other people, will obey\l"
-	.string "you completely.\p"
-	.string "And, it lets POKéMON use the HM move\n"
-	.string "STRENGTH outside of battle.\p"
-	.string "This is a token of my appreciation.\n"
-	.string "Don't be shy about taking it!$"
+	.string "Si tienes una Medalla Calor, todos los\n"
+	.string "Pokémon hasta el nivel 50, incluso los\l"
+	.string "que obtengas en intercambios con otras\l"
+	.string "personas, te obedecerán completamente.\p"
+	.string "Y además, permite a los Pokémon usar el\n"
+	.string "movimiento MO Fuerza fuera de combate.\p"
+	.string "Esto es un recuerdo de mi agradecimiento.\n"
+	.string "¡No seas tímido y tómalo!$"
 
 LavaridgeTown_Gym_1F_Text_ExplainOverheat:
-	.string "That TM50 contains OVERHEAT.\p"
-	.string "That move inflicts serious damage on\n"
-	.string "the opponent.\p"
-	.string "But it also sharply cuts the SP. ATK\n"
-	.string "of the POKéMON using it. It might not\l"
-	.string "be suitable for longer battles.$"
+	.string "Esa MT50 contiene Sofoco.\p"
+	.string "Ese movimiento inflige daño grave al\n"
+	.string "oponente.\p"
+	.string "Pero también reduce drásticamente el\n"
+	.string "At. Esp. del Pokémon que lo usa. Puede\l"
+	.string "que no sea adecuado para combates\l"
+	.string "largos.$"
 
 LavaridgeTown_Gym_1F_Text_RegisteredFlannery:
-	.string "Registered GYM LEADER FLANNERY\n"
-	.string "in the POKéNAV.$"
+	.string "Se ha registrado a la líder del\n"
+	.string "Gimnasio, Candela, en el PokéNav.$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostBattle:
-	.string "Your power reminds me of someone…\p"
-	.string "Oh! I know! You battle like NORMAN,\n"
-	.string "the GYM LEADER of PETALBURG.$"
+	.string "Tu poder me recuerda a alguien…\p"
+	.string "¡Oh! ¡Ya sé! Luchas como Norman, el\n"
+	.string "líder del Gimnasio de Petalia.$"
 
 LavaridgeTown_Gym_1F_Text_GymStatue:
-	.string "LAVARIDGE TOWN POKéMON GYM$"
+	.string "GIMNASIO POKÉMON DE CIUDAD LAVACALDA$"
 
 LavaridgeTown_Gym_1F_Text_GymStatueCertified:
-	.string "LAVARIDGE TOWN POKéMON GYM\p"
-	.string "FLANNERY'S CERTIFIED TRAINERS:\n"
+	.string "GIMNASIO POKÉMON DE CIUDAD LAVACALDA\p"
+	.string "ENTRENADORES CERTIFICADOS POR CANDELA:\n"
 	.string "{PLAYER}$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPreRematch:
-	.string "FLANNERY: Losing a battle isn't going\n"
-	.string "to deflate me.\p"
-	.string "I love POKéMON.\n"
-	.string "I love to battle.\l"
-	.string "And… I love this GYM!\p"
-	.string "Let's exchange superhot moves\n"
-	.string "in another battle!$"
+	.string "CANDELA: Perder un combate no me va a\n"
+	.string "desanimar.\p"
+	.string "Amo los Pokémon.\n"
+	.string "Amo luchar.\l"
+	.string "Y… ¡amo este Gimnasio!\p"
+	.string "¡Intercambiemos movimientos\n"
+	.string "supercalientes en otro combate!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryRematchDefeat:
-	.string "Whew!\n"
-	.string "On the verge of eruption!$"
+	.string "¡Uf!\n"
+	.string "¡A punto de entrar en erupción!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostRematch:
-	.string "FLANNERY: I lost the match,\n"
-	.string "but I'm completely satisfied.\p"
-	.string "It's not often I get to enjoy a battle\n"
-	.string "this heated.\p"
-	.string "Let's have another one like this\n"
-	.string "again sometime!$"
+	.string "CANDELA: He perdido el combate,\n"
+	.string "pero estoy completamente satisfecha.\p"
+	.string "No es frecuente que pueda disfrutar de\n"
+	.string "un combate tan caluroso.\p"
+	.string "¡Tengamos otro así alguna vez!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryRematchNeedTwoMons:
-	.string "FLANNERY: Losing a battle isn't going\n"
-	.string "to deflate me.\p"
-	.string "I love POKéMON.\n"
-	.string "I love to battle.\l"
-	.string "And… I love this GYM!\p"
-	.string "Let's exchange superhot moves\n"
-	.string "in another battle!\p"
-	.string "Oh, wait. Do you only have one POKéMON\n"
-	.string "that can battle?\p"
-	.string "I hate to say this, but when you come\n"
-	.string "see me, bring at least two POKéMON.$"
+	.string "CANDELA: Perder un combate no me va a\n"
+	.string "desanimar.\p"
+	.string "Amo los Pokémon.\n"
+	.string "Amo luchar.\l"
+	.string "Y… ¡amo este Gimnasio!\p"
+	.string "¡Intercambiemos movimientos\n"
+	.string "supercalientes en otro combate!\p"
+	.string "Oh, espera. ¿Solo llevas un Pokémon que\n"
+	.string "pueda luchar?\p"
+	.string "Odio decir esto, pero cuando vengas a\n"
+	.string "verme, trae al menos dos Pokémon.$"

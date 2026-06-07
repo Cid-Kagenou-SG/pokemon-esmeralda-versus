@@ -12,32 +12,33 @@ MagmaHideout_3F_1R_EventScript_Grunt16::
 	end
 
 MagmaHideout_3F_1R_Text_Grunt9Intro:
-	.string "What did I do to deserve this guard\n"
-	.string "posting?\p"
-	.string "My left ear is burning up!$"
+	.string "¿Qué he hecho yo para merecer este\n"
+	.string "puesto de guardia?\p"
+	.string "¡Se me está quemando la oreja\n"
+	.string "izquierda!$"
 
 MagmaHideout_3F_1R_Text_Grunt9Defeat:
-	.string "I'm getting heat exhaustion…$"
+	.string "Me está dando un golpe de calor…$"
 
 MagmaHideout_3F_1R_Text_Grunt9PostBattle:
-	.string "Do you think it's odd that we're wearing\n"
-	.string "hoods in this magma-filled volcano?$"
+	.string "¿No te parece raro que llevemos\n"
+	.string "capuchas en este volcán lleno de magma?$"
 
 MagmaHideout_3F_1R_Text_Grunt16Intro:
-	.string "We joined so we can help our leader\n"
-	.string "achieve his fantastic vision.\p"
-	.string "I don't care if you're with TEAM AQUA\n"
-	.string "or if you're just some kid passing by.\p"
-	.string "No one interferes with us and gets\n"
-	.string "away with it!$"
+	.string "Nos unimos para ayudar a nuestro líder\n"
+	.string "a cumplir su fantástica visión.\p"
+	.string "No me importa si eres del Equipo Aqua\n"
+	.string "o si eres solo un crío de paso.\p"
+	.string "¡Nadie se interpone en nuestro camino\n"
+	.string "y sale impune!$"
 
 MagmaHideout_3F_1R_Text_Grunt16Defeat:
-	.string "Oh, no!\n"
-	.string "You're not to be trusted at all!$"
+	.string "¡Oh, no!\n"
+	.string "¡No eres de fiar en absoluto!$"
 
 MagmaHideout_3F_1R_Text_Grunt16PostBattle:
-	.string "Listen to me.\n"
-	.string "TEAM MAGMA is right!\p"
-	.string "Don't listen to TEAM AQUA.\n"
-	.string "Don't believe their lies!$"
+	.string "Escúchame.\n"
+	.string "¡El Equipo Magma tiene razón!\p"
+	.string "No escuches al Equipo Aqua.\n"
+	.string "¡No creas sus mentiras!$"
 

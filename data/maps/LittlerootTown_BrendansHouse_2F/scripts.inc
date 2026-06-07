@@ -270,32 +270,35 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-	.string "The clock is stopped…\p"
-	.string "Better set it and start it!$"
+	.string "El reloj está parado…\p"
+	.string "¡Mejor ponlo en hora y arrancarlo!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MOM: {PLAYER}, how do you like your\n"
-	.string "new room?\p"
-	.string "Good! Everything's put away neatly!\p"
-	.string "They finished moving everything in\n"
-	.string "downstairs, too.\p"
-	.string "POKéMON movers are so convenient!\p"
-	.string "Oh, you should make sure that\n"
-	.string "everything's all there on your desk.$"
+	.string "MAMÁ: {PLAYER}, ¿qué te parece tu\n"
+	.string "nueva habitación?\p"
+	.string "¡Bien! ¡Todo está guardado\n"
+	.string "ordenadamente!\p"
+	.string "También han terminado de traer todo\n"
+	.string "abajo.\p"
+	.string "¡Los mudadores Pokémon son tan\n"
+	.string "prácticos!\p"
+	.string "Ah, deberías asegurarte de que\n"
+	.string "esté todo en tu mesa.$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-	.string "ADVENTURE RULE NO. 1\n"
-	.string "Open the MENU with START.\p"
-	.string "ADVENTURE RULE NO. 2\n"
-	.string "Record your progress with SAVE.\p"
-	.string "The remaining pages are blank…$"
+	.string "{PLAYER} abrió la libreta.\p"
+	.string "REGLA DE AVENTURA N.º 1\n"
+	.string "Abre el MENÚ con START.\p"
+	.string "REGLA DE AVENTURA N.º 2\n"
+	.string "Guarda tu progreso con GUARDAR.\p"
+	.string "Las páginas restantes están en\n"
+	.string "blanco…$"
 
 Common_Text_LookCloserAtMap:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "HOENN region map.$"
+	.string "{PLAYER} miró de cerca el mapa de la\n"
+	.string "región de Hoenn.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-	.string "It's a Nintendo GameCube.\p"
-	.string "A Game Boy Advance is connected to\n"
-	.string "serve as the Controller.$"
+	.string "Es una Nintendo GameCube.\p"
+	.string "Una Game Boy Advance está conectada\n"
+	.string "para servir como mando.$"

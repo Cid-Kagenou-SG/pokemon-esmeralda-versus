@@ -139,45 +139,47 @@ LilycoveCity_DepartmentStore_1F_EventScript_FloorNamesSign::
 	end
 
 LilycoveCity_DepartmentStore_1F_Text_WelcomeToDeptStore:
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.$"
+	.string "Bienvenido al CENTRO COMERCIAL de\n"
+	.string "CIUDAD CALAGUA.$"
 
 LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings:
-	.string "Whenever I come to the DEPARTMENT\n"
-	.string "STORE, I always end up buying all sorts\l"
-	.string "of things because it's so fun.$"
+	.string "Siempre que vengo al CENTRO COMERCIAL,\n"
+	.string "acabo comprando todo tipo de cosas\l"
+	.string "porque es tan divertido.$"
 
 LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture:
-	.string "Today, my mom is going to buy me some\n"
-	.string "nice furniture.$"
+	.string "Hoy, mi mamá me va a comprar unos\n"
+	.string "muebles bonitos.$"
 
 LilycoveCity_DepartmentStore_1F_Text_BuyingSomethingForAzumarill:
-	.string "I'm buying something for my AZUMARILL\n"
-	.string "as a reward for winning a CONTEST.$"
+	.string "Le voy a comprar algo a mi Azumarill\n"
+	.string "como recompensa por ganar un Concurso.$"
 
 LilycoveCity_DepartmentStore_1F_Text_Azumarill:
-	.string "AZUMARILL: Maririroo!$"
+	.string "AZUMARILL: ¡Maririroo!$"
 
 LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign:
-	.string "1F: SERVICE COUNTER\n"
-	.string "    LOTTERY CORNER\p"
-	.string "2F: TRAINER'S ZONE\p"
-	.string "3F: BATTLE COLLECTION\p"
-	.string "4F: TM CORNER\p"
-	.string "5F: POKé DOLL FLOOR\p"
-	.string "ROOFTOP: ROOFTOP PLAZA$"
+	.string "PB: PUESTO DE INFORMACIONES\n"
+	.string "    ESQUINA LOTERÍA\p"
+	.string "1F: ZONA ENTRENADORES\p"
+	.string "2F: COLECCIÓN COMBATE\p"
+	.string "3F: ESQUINA MT\p"
+	.string "4F: PISO POKé MUÑECOS\p"
+	.string "AZOTEA: PLAZA AZOTEA$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_WirelessCommIsFun:
-	.string "Wireless Communication is a\n"
-	.string "lot of fun, isn't it?\p"
-	.string "I think it lets you do things that\n"
-	.string "weren't possible before.\p"
-	.string "For instance, you can now trade\n"
-	.string "with people you couldn't before.\p"
-	.string "I think it's going to be exciting!$"
+	.string "La Comunicación Inalámbrica es muy\n"
+	.string "divertida, ¿verdad?\p"
+	.string "Creo que te permite hacer cosas que\n"
+	.string "antes no eran posibles.\p"
+	.string "Por ejemplo, ahora puedes intercambiar\n"
+	.string "con gente con la que antes no podías.\p"
+	.string "¡Creo que va a ser emocionante!$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_SpreadWordAboutWirelessComm:
-	.string "I want to spread the word about how\n"
-	.string "fun Wireless Communication can be.$"
+	.string "Quiero difundir la palabra sobre lo\n"
+	.string "divertida que puede ser la Comunicación\l"
+	.string "Inalámbrica.$"
 

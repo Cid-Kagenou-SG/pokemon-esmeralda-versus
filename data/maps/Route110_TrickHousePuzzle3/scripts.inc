@@ -302,44 +302,45 @@ Route110_TrickHousePuzzle3_EventScript_Alan::
 	end
 
 Route110_TrickHousePuzzle3_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is coveted.”\n"
+	.string "{PLAYER} escribió el código secreto\n"
+	.string "en la puerta.\p"
+	.string "“MAESTRO TRETA es deseado.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "¡La cerradura se ha abierto!$"
 
 Route110_TrickHousePuzzle3_Text_JustinIntro:
-	.string "I keep coming back to this same place!$"
+	.string "¡Siempre vuelvo al mismo sitio!$"
 
 Route110_TrickHousePuzzle3_Text_JustinDefeat:
-	.string "I'm already having trouble, and then\n"
-	.string "you have to beat me? It's not fair!$"
+	.string "Ya me cuesta bastante, y encima me\n"
+	.string "tienes que ganar. ¡No es justo!$"
 
 Route110_TrickHousePuzzle3_Text_JustinPostBattle:
-	.string "It's full of doors here!\n"
-	.string "It's too small and dark in here! Help!$"
+	.string "¡Aquí hay puertas por todas partes!\n"
+	.string "¡Es demasiado pequeño y oscuro! ¡Ayuda!$"
 
 Route110_TrickHousePuzzle3_Text_MarthaIntro:
-	.string "I don't know what's going on here.\n"
-	.string "I'm starting to feel sad…$"
+	.string "No entiendo qué está pasando aquí.\n"
+	.string "Me estoy poniendo triste…$"
 
 Route110_TrickHousePuzzle3_Text_MarthaDefeat:
-	.string "You… You're awful!$"
+	.string "Tú… ¡Eres horrible!$"
 
 Route110_TrickHousePuzzle3_Text_MarthaPostBattle:
-	.string "I know I'm weak!\n"
-	.string "And, I have no sense of direction!$"
+	.string "¡Sé que soy débil!\n"
+	.string "¡Y encima no tengo sentido de la\l"
+	.string "orientación!$"
 
 Route110_TrickHousePuzzle3_Text_AlanIntro:
-	.string "I don't get it. What would anyone want\n"
-	.string "with a house this bizarre?$"
+	.string "No lo entiendo. ¿Qué sentido tiene una\n"
+	.string "casa tan rara?$"
 
 Route110_TrickHousePuzzle3_Text_AlanDefeat:
-	.string "I don't get it.\n"
-	.string "How did I lose?$"
+	.string "No lo entiendo.\n"
+	.string "¿Cómo he perdido?$"
 
 Route110_TrickHousePuzzle3_Text_AlanPostBattle:
-	.string "I don't get it.\n"
-	.string "How many traps are in this house?\p"
-	.string "You may be the one to solve that.$"
+	.string "No lo entiendo.\n"
+	.string "¿Cuántas trampas hay en esta casa?\p"
+	.string "Puede que seas tú quien lo descubra.$"
 

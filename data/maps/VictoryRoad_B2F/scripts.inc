@@ -32,77 +32,80 @@ VictoryRoad_B2F_EventScript_Dianne::
 	end
 
 VictoryRoad_B2F_Text_VitoIntro:
-	.string "I trained together with my whole family,\n"
-	.string "every one of us!\l"
-	.string "I'm not losing to anyone!$"
+	.string "He entrenado con toda mi familia,\n"
+	.string "¡todos nosotros!\l"
+	.string "¡No voy a perder ante nadie!$"
 
 VictoryRoad_B2F_Text_VitoDefeat:
-	.string "Better than my family?!\n"
-	.string "Is that possible?!$"
+	.string "¿¿Mejor que mi familia??\n"
+	.string "¿¿Es eso posible??$"
 
 VictoryRoad_B2F_Text_VitoPostBattle:
-	.string "I was better than everyone in my\n"
-	.string "family. I've never lost before…\p"
-	.string "I've lost my confidence…\n"
-	.string "Maybe I'll go home…$"
+	.string "Era mejor que todos en mi familia.\n"
+	.string "Nunca había perdido antes…\p"
+	.string "He perdido mi confianza…\n"
+	.string "Quizás vuelva a casa…$"
 
 VictoryRoad_B2F_Text_OwenIntro:
-	.string "I'd heard that there was a tough\n"
-	.string "little kid around. Do they mean you?$"
+	.string "Había oído que había un niño pequeño\n"
+	.string "pero duro por aquí. ¿Te refieren a ti?$"
 
 VictoryRoad_B2F_Text_OwenDefeat:
-	.string "The little shrimp is tough!$"
+	.string "¡El pequeñajo es duro!$"
 
 VictoryRoad_B2F_Text_OwenPostBattle:
-	.string "The rumors I heard, that tough little\n"
-	.string "kid is from PETALBURG CITY.$"
+	.string "Los rumores que oí, ese niño pequeño\n"
+	.string "pero duro es de CIUDAD PETALIA.$"
 
 VictoryRoad_B2F_Text_CarolineIntro:
-	.string "You must be getting a little tired.$"
+	.string "Debes estar un poco cansado.$"
 
 VictoryRoad_B2F_Text_CarolineDefeat:
-	.string "No signs of tiring at all!$"
+	.string "¡Ni signos de cansancio en absoluto!$"
 
 VictoryRoad_B2F_Text_CarolinePostBattle:
-	.string "VICTORY ROAD and the POKéMON LEAGUE\n"
-	.string "are long and grueling challenges.\l"
-	.string "Beware of fatigue!$"
+	.string "La RUTA VICTORIA y la LIGA POKéMON\n"
+	.string "son desafíos largos y agotadores.\l"
+	.string "¡Ten cuidado con el cansancio!$"
 
 VictoryRoad_B2F_Text_JulieIntro:
-	.string "You shouldn't get complacent just\n"
-	.string "because you have a lot of GYM BADGES.\p"
-	.string "There's always going to be someone\n"
-	.string "who's better than you!$"
+	.string "No deberías confiarte solo porque\n"
+	.string "tienes muchas MEDALLAS.\p"
+	.string "Siempre va a haber alguien que\n"
+	.string "sea mejor que tú.$"
 
 VictoryRoad_B2F_Text_JulieDefeat:
-	.string "You're better than me!$"
+	.string "¡Eres mejor que yo!$"
 
 VictoryRoad_B2F_Text_JuliePostBattle:
-	.string "Gaze on your collected BADGES and\n"
-	.string "remember the TRAINERS you've faced.$"
+	.string "Contempla tus MEDALLAS reunidas y\n"
+	.string "recuerda a los ENTRENADORES a los que\l"
+	.string "te has enfrentado.$"
 
 VictoryRoad_B2F_Text_FelixIntro:
-	.string "I've come this far, but the tension's\n"
-	.string "giving me awful stomach pain…$"
+	.string "He llegado hasta aquí, pero la tensión\n"
+	.string "me está dando un dolor de estómago\l"
+	.string "terrible…$"
 
 VictoryRoad_B2F_Text_FelixDefeat:
 	.string "Ooh…\n"
-	.string "It hurts…$"
+	.string "Duele…$"
 
 VictoryRoad_B2F_Text_FelixPostBattle:
-	.string "I can't help getting all tense knowing\n"
-	.string "that I'm nearing the POKéMON LEAGUE.\p"
-	.string "It's all I can do to feign calm.$"
+	.string "No puedo evitar ponerme tenso sabiendo\n"
+	.string "que me estoy acercando a la LIGA\l"
+	.string "POKéMON.\p"
+	.string "Todo lo que puedo hacer es fingir calma.$"
 
 VictoryRoad_B2F_Text_DianneIntro:
-	.string "The elite among the elite gather in\n"
-	.string "this cave.\p"
-	.string "How are you finding it?$"
+	.string "La élite entre la élite se reúne en\n"
+	.string "esta cueva.\p"
+	.string "¿Cómo lo estás llevando?$"
 
 VictoryRoad_B2F_Text_DianneDefeat:
-	.string "Not rattled in the least bit!$"
+	.string "¡Ni el más mínimo desconcierto!$"
 
 VictoryRoad_B2F_Text_DiannePostBattle:
-	.string "You do have guts! I like that!\n"
-	.string "Keep it going!$"
+	.string "¡Sí que tienes agallas! ¡Eso me gusta!\n"
+	.string "¡Sigue así!$"
 

@@ -171,28 +171,30 @@ Route123_EventScript_RematchFernando::
 	end
 
 Route123_Text_LoveGrassMonsHaveAny:
-	.string "I love GRASS-type POKéMON!\p"
-	.string "Do you have any GRASS-type POKéMON?$"
+	.string "¡Me encantan los POKéMON de tipo\n"
+	.string "PLANTA!\p"
+	.string "¿Tienes algún POKéMON de tipo PLANTA?$"
 
 Route123_Text_YouLikeGrassMonsTooHaveThis:
-	.string "Oh?\p"
-	.string "You like GRASS-type POKéMON, too,\n"
-	.string "don't you?\p"
-	.string "I'm so happy, you can have this!\n"
-	.string "It's a token of our friendship.$"
+	.string "¿Oh?\p"
+	.string "A ti también te gustan los POKéMON de\n"
+	.string "tipo PLANTA, ¿verdad?\p"
+	.string "¡Estoy tan contenta que te daré esto!\n"
+	.string "Es una muestra de nuestra amistad.$"
 
 Route123_Text_CheckTreesWithMyGrassMon:
-	.string "I check trees with my GRASS-type\n"
-	.string "POKéMON. I'm like a tree doctor.$"
+	.string "Reviso los árboles con mi POKéMON de\n"
+	.string "tipo PLANTA. Soy como un médico de\l"
+	.string "árboles.$"
 
 Route123_Text_RouteSign:
-	.string "{RIGHT_ARROW} ROUTE 123\n"
-	.string "{LEFT_ARROW} ROUTE 118$"
+	.string "{RIGHT_ARROW} RUTA 123\n"
+	.string "{LEFT_ARROW} RUTA 118$"
 
 Route123_Text_RouteSignMtPyre:
-	.string "{UP_ARROW} MT. PYRE\n"
-	.string "“Forbidden to the faint of heart.”$"
+	.string "{UP_ARROW} MONTE PÍRICO\n"
+	.string "“Prohibido para los débiles de corazón.”$"
 
 Route123_Text_BerryMastersHouse:
-	.string "BERRY MASTER'S HOUSE$"
+	.string "CASA DEL BAYÓLOGO$"
 

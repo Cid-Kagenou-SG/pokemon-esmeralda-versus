@@ -43,32 +43,35 @@ VerdanturfTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 VerdanturfTown_ContestHall_Text_WhichContestYouEntering:
-	.string "Which CONTEST are you entering?\n"
-	.string "Want a piece of advice?\p"
-	.string "In any CONTEST, for example, a CUTE\n"
-	.string "CONTEST, I don't think they judge you\l"
-	.string "only on cuteness in the first round.\p"
-	.string "You need to work out ways for raising\n"
-	.string "POKéMON better.$"
+	.string "¿A qué CONCURSO te apuntas?\n"
+	.string "¿Quieres un consejo?\p"
+	.string "En cualquier CONCURSO, por ejemplo,\n"
+	.string "uno de DULZURA, no creo que en la\l"
+	.string "primera ronda te juzguen solo por\l"
+	.string "la dulzura.\p"
+	.string "Tienes que encontrar la forma de\n"
+	.string "criar mejor a los POKéMON.$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_RaisedMonToBeCute:
-	.string "I raised my POKéMON to be cute.\p"
-	.string "I found out you can put POKéMON in\n"
-	.string "a CONTEST for cuteness!\p"
-	.string "I'm so glad I raised my POKéMON with\n"
-	.string "loving care…$"
+	.string "He criado a mi POKéMON para que\n"
+	.string "sea dulce.\p"
+	.string "¡He descubierto que puedes presentar\n"
+	.string "a los POKéMON en un CONCURSO de\l"
+	.string "dulzura!\p"
+	.string "Me alegro tanto de haber criado a mi\n"
+	.string "POKéMON con tanto cariño…$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_MyMonRules:
-	.string "My POKéMON rules!\p"
-	.string "It's cool, tough yet beautiful, cute,\n"
-	.string "and smart. It's complete!\p"
-	.string "I may as well go for wins in every\n"
-	.string "single CONTEST.$"
+	.string "¡Mi POKéMON es lo más!\p"
+	.string "Tiene carisma, dureza, belleza,\n"
+	.string "dulzura e ingenio. ¡Lo tiene todo!\p"
+	.string "Seguro que podría ganar en todos\n"
+	.string "y cada uno de los CONCURSOS.$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_NormalRankStage:
-	.string "POKéMON CONTESTS\n"
-	.string "NORMAL RANK STAGE!$"
+	.string "CONCURSOS POKéMON\n"
+	.string "¡ESCENARIO RANGO NORMAL!$"
 

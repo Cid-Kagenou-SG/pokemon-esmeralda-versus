@@ -7,20 +7,21 @@ MagmaHideout_3F_2R_EventScript_Grunt10::
 	end
 
 MagmaHideout_3F_2R_Text_Grunt10Intro:
-	.string "I understand everything our leader\n"
-	.string "says. But you know what?\p"
-	.string "Doing stuff like digging up a super-\n"
-	.string "ancient POKéMON and ripping off\l"
-	.string "someone's METEORITE…\p"
-	.string "I think we're going a little too far.\n"
-	.string "What do you think?$"
+	.string "Entiendo todo lo que dice nuestro líder.\n"
+	.string "Pero ¿sabes qué?\p"
+	.string "Hacer cosas como desenterrar un\n"
+	.string "Pokémon superancestral y robarle\l"
+	.string "el Meteorito a alguien…\p"
+	.string "Creo que nos estamos pasando un poco.\n"
+	.string "¿Tú qué opinas?$"
 
 MagmaHideout_3F_2R_Text_Grunt10Defeat:
-	.string "Yeah, I think we are doing something\n"
-	.string "wrong somehow.$"
+	.string "Sí, creo que estamos haciendo algo\n"
+	.string "mal de alguna forma.$"
 
 MagmaHideout_3F_2R_Text_Grunt10PostBattle:
-	.string "You know, losing to you cleared my mind.\p"
-	.string "The next time I see our leader,\n"
-	.string "I'm going to ask him about what we do.$"
+	.string "Sabes, perder contra ti me ha aclarado\n"
+	.string "la mente.\p"
+	.string "La próxima vez que vea a nuestro líder,\n"
+	.string "le voy a preguntar sobre lo que hacemos.$"
 

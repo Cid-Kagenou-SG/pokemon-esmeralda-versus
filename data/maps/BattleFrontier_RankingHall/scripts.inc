@@ -101,34 +101,35 @@ BattleFrontier_RankingHall_EventScript_Boy::
 	end
 
 BattleFrontier_RankingHall_Text_ExplainRankingHall:
-	.string "This is the RANKING HALL.\p"
-	.string "This is where we recognize the immortal\n"
-	.string "TRAINERS who left great records in\l"
-	.string "BATTLE FRONTIER events.$"
+	.string "Este es el Salón de Clasificación.\p"
+	.string "Aquí reconocemos a los entrenadores\n"
+	.string "inmortales que dejaron grandes récords\l"
+	.string "en los eventos del Frente Batalla.$"
 
 BattleFrontier_RankingHall_Text_DomePikeFactoryRecords:
-	.string "BATTLE DOME, BATTLE PIKE,\n"
-	.string "and BATTLE FACTORY Records$"
+	.string "Récords de la Cúpula Batalla, la Sierpe\n"
+	.string "Batalla y la Fábrica Batalla$"
 
 BattleFrontier_RankingHall_Text_PalaceArenaPyramidRecords:
-	.string "BATTLE PALACE, BATTLE ARENA,\n"
-	.string "and BATTLE PYRAMID Records$"
+	.string "Récords del Palacio Batalla, el Dojo\n"
+	.string "Batalla y la Pirámide Batalla$"
 
 BattleFrontier_RankingHall_Text_IsYourNameOnThisList:
-	.string "Hi, is your name on this list?$"
+	.string "Hola, ¿está tu nombre en esta lista?$"
 
 BattleFrontier_RankingHall_Text_WowThatsSuper:
-	.string "Wow, that's super!\n"
-	.string "I'll have to try harder, too!$"
+	.string "¡Vaya, eso es genial!\n"
+	.string "¡Yo también tendré que esforzarme más!$"
 
 BattleFrontier_RankingHall_Text_WorkHarderIfYouSawFriendsName:
-	.string "Oh, is that right?\p"
-	.string "If you saw your friend's name up here,\n"
-	.string "I bet it would make you work harder!$"
+	.string "Oh, ¿es así?\p"
+	.string "Si vieras el nombre de tu amigo aquí\n"
+	.string "arriba, seguro que te haría trabajar más\l"
+	.string "duro.$"
 
 BattleFrontier_RankingHall_Text_MyNamesNotUpThere:
-	.string "Hmm…\n"
-	.string "My name's not up there…\p"
-	.string "Well, it's only natural since I haven't\n"
-	.string "taken any challenges yet.$"
+	.string "Mmm…\n"
+	.string "Mi nombre no está ahí arriba…\p"
+	.string "Bueno, es natural ya que todavía no he\n"
+	.string "aceptado ningún desafío.$"
 

@@ -22,20 +22,21 @@ MossdeepCity_House1_EventScript_Woman::
 	end
 
 MossdeepCity_House1_Text_HmmYourPokemon:
-	.string "Hmm!\n"
-	.string "Your {STR_VAR_1}…$"
+	.string "Mmm...\n"
+	.string "Tu {STR_VAR_1}...$"
 
 MossdeepCity_House1_Text_ItLikesXPokeblocks:
-	.string "It likes {STR_VAR_1}S,\n"
-	.string "doesn't it?\p"
-	.string "No, I'm positive of it! It definitely\n"
-	.string "likes {STR_VAR_1}S!$"
+	.string "Le gustan los {POKEBLOCK} {STR_VAR_1},\n"
+	.string "¿verdad?\p"
+	.string "No, ¡estoy seguro! ¡Definitivamente le\n"
+	.string "gustan los {POKEBLOCK} {STR_VAR_1}!$"
 
 MossdeepCity_House1_Text_DoesntLikeOrDislikePokeblocks:
-	.string "It doesn't appear to like or dislike\n"
-	.string "any {POKEBLOCK}S.$"
+	.string "No parece que le gusten o disgusten\n"
+	.string "ningún {POKEBLOCK}.$"
 
 MossdeepCity_House1_Text_HusbandCanTellPokeblockMonLikes:
-	.string "My husband can tell what kind of\n"
-	.string "{POKEBLOCK}S a POKéMON likes at a glance.$"
+	.string "Mi marido puede saber qué tipo de\n"
+	.string "{POKEBLOCK} le gusta a un Pokémon con\l"
+	.string "solo mirarlo.$"
 

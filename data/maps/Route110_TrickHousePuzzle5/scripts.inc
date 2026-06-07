@@ -896,127 +896,129 @@ Route110_TrickHousePuzzle5_Movement_MechadollShake:
 	step_end
 
 Route110_TrickHousePuzzle5_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is a genius.”\n"
+	.string "{PLAYER} escribió el código secreto\n"
+	.string "en la puerta.\p"
+	.string "“MAESTRO TRETA es un genio.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "¡La cerradura se ha abierto!$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 1 AM I!\p"
-	.string "IF YOU ANSWER QUIZZES CORRECTLY,\n"
-	.string "THEN YOU WILL GO TO MECHADOLL 5.\l"
-	.string "THEN YOU CAN OBTAIN THE SECRET CODE.$"
+	.string "CLAC-CLAC-CLAC…\n"
+	.string "¡YO SOY EL MECAÑECO 1!\p"
+	.string "SI RESPONDES CORRECTAMENTE A LOS\n"
+	.string "ACERTIJOS, LLEGARÁS AL MECAÑECO 5.\l"
+	.string "ENTONCES PODRÁS OBTENER EL CÓDIGO\l"
+	.string "SECRETO.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON is not found\n"
-	.string "on ROUTE 110. Which one is it?$"
+	.string "ACERTIJO DEL MECAÑECO 1.\p"
+	.string "Uno de estos Pokémon no aparece en\n"
+	.string "la RUTA 110. ¿Cuál es?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON is not of the\n"
-	.string "WATER type. Which one is it?$"
+	.string "ACERTIJO DEL MECAÑECO 1.\p"
+	.string "Uno de estos Pokémon no es de tipo\n"
+	.string "AGUA. ¿Cuál es?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz3:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON does not use\n"
-	.string "LEECH LIFE. Which one is it?$"
+	.string "ACERTIJO DEL MECAÑECO 1.\p"
+	.string "Uno de estos Pokémon no usa\n"
+	.string "CHUPAVIDAS. ¿Cuál es?$"
 
 Route110_TrickHousePuzzle5_Text_CorrectGoThrough:
-	.string "CONGRATULATIONS. CORRECT YOU ARE.\n"
-	.string "GO THROUGH. PLEASE.$"
+	.string "ENHORABUENA. ES CORRECTO.\n"
+	.string "PASA, POR FAVOR.$"
 
 Route110_TrickHousePuzzle5_Text_DisappointmentError:
-	.string "BZZZT. DISAPPOINTMENT.\n"
+	.string "BZZZT. QUÉ DECEPCIÓN.\n"
 	.string "ERROR.$"
 
 Route110_TrickHousePuzzle5_Text_Wahahahaha:
-	.string "WAHAHAHAHA! WAHAHAHAHA!\n"
-	.string "CLICKETY-CLACK!$"
+	.string "¡JA-JA-JA-JA! ¡JA-JA-JA-JA!\n"
+	.string "¡CLAC-CLAC-CLAC!$"
 
 Route110_TrickHousePuzzle5_Text_WaitForNextChallenge:
-	.string "YOUR NEXT CHALLENGE WE WAIT FOR.$"
+	.string "ESPERAMOS TU PRÓXIMO DESAFÍO.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 2 AM I!\p"
-	.string "MECHADOLL 1'S QUIZ DIFFICULTY LEVEL\n"
-	.string "IS SET TOO LOW.$"
+	.string "CLAC-CLAC-CLAC…\n"
+	.string "¡YO SOY EL MECAÑECO 2!\p"
+	.string "EL NIVEL DE DIFICULTAD DEL ACERTIJO\n"
+	.string "DEL MECAÑECO 1 ES DEMASIADO BAJO.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz1:
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these POKéMON did WALLY\n"
-	.string "borrow from your father?$"
+	.string "ACERTIJO DEL MECAÑECO 2.\p"
+	.string "¿Cuál de estos Pokémon le prestó\n"
+	.string "tu padre a BLASCO?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz2:
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these POKéMON was chasing\n"
-	.string "PROF. BIRCH?$"
+	.string "ACERTIJO DEL MECAÑECO 2.\p"
+	.string "¿Cuál de estos Pokémon estaba\n"
+	.string "persiguiendo al PROF. ABEDUL?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz3:
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these POKéMON did TEAM AQUA\n"
-	.string "use in PETALBURG FOREST?$"
+	.string "ACERTIJO DEL MECAÑECO 2.\p"
+	.string "¿Cuál de estos Pokémon usaba el\n"
+	.string "EQUIPO AQUA en el BOSQUE PETALIA?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 3 AM I!\p"
-	.string "MATTERS OF MONEY ARE MY SOLE FOCUS.$"
+	.string "CLAC-CLAC-CLAC…\n"
+	.string "¡YO SOY EL MECAÑECO 3!\p"
+	.string "LOS ASUNTOS DE DINERO SON MI ÚNICA\n"
+	.string "PREOCUPACIÓN.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1:
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Which costs more?\n"
-	.string "Three HARBOR MAILS or one BURN HEAL?$"
+	.string "ACERTIJO DEL MECAÑECO 3.\p"
+	.string "¿Qué cuesta más?\n"
+	.string "¿Tres CARTAS PUERTO o una CURA QUEMADURAS?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2:
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Sell one GREAT BALL and buy\n"
-	.string "one POTION. How much money remains?$"
+	.string "ACERTIJO DEL MECAÑECO 3.\p"
+	.string "Vende una SUPER BALL y compra\n"
+	.string "una POCIÓN. ¿Cuánto dinero sobra?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3:
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Do one REPEL and SODA POP cost\n"
-	.string "more than one SUPER POTION?$"
+	.string "ACERTIJO DEL MECAÑECO 3.\p"
+	.string "¿Un REPELENTE y un REFRESCO cuestan\n"
+	.string "más que una SUPER POCIÓN?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 4 THAT IS ME!\p"
-	.string "MY QUIZ IS AN OBJECT OF BEAUTY.$"
+	.string "CLAC-CLAC-CLAC…\n"
+	.string "¡YO SOY EL MECAÑECO 4!\p"
+	.string "MI ACERTIJO ES UN OBJETO DE BELLEZA.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz1:
-	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In SEASHORE HOUSE, were there more men\n"
-	.string "or women?$"
+	.string "ACERTIJO DEL MECAÑECO 4.\p"
+	.string "En la CASA DE LA PLAYA, ¿había más\n"
+	.string "hombres o mujeres?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz2:
-	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In LAVARIDGE TOWN, were there more\n"
-	.string "elderly men or elderly women?$"
+	.string "ACERTIJO DEL MECAÑECO 4.\p"
+	.string "En el PUEBLO LAVACALDA, ¿había más\n"
+	.string "hombres mayores o mujeres mayores?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3:
-	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In the TRAINER'S SCHOOL, how many\n"
-	.string "girl students were there?$"
+	.string "ACERTIJO DEL MECAÑECO 4.\p"
+	.string "En la ESCUELA DE ENTRENADORES,\n"
+	.string "¿cuántas estudiantes chicas había?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 5 AM I!\p"
-	.string "THE MASTER'S BEST AND PROUDEST\n"
-	.string "ACHIEVEMENT AM I.$"
+	.string "CLAC-CLAC-CLAC…\n"
+	.string "¡YO SOY EL MECAÑECO 5!\p"
+	.string "SOY EL MAYOR Y MÁS ORGULLOSO LOGRO\n"
+	.string "DEL MAESTRO.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz1:
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "In SLATEPORT's POKéMON FAN CLUB,\n"
-	.string "how many POKéMON were there?$"
+	.string "ACERTIJO DEL MECAÑECO 5.\p"
+	.string "En el CLUB FANS POKéMON de CIUDAD\n"
+	.string "PORTUAL, ¿cuántos Pokémon había?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz2:
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "In FORTREE CITY, how many\n"
-	.string "tree houses were there?$"
+	.string "ACERTIJO DEL MECAÑECO 5.\p"
+	.string "En CIUDAD ARBORADA, ¿cuántas\n"
+	.string "casas en los árboles había?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz3:
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "On the CYCLING ROAD, how many\n"
-	.string "TRIATHLETES were there?$"
+	.string "ACERTIJO DEL MECAÑECO 5.\p"
+	.string "En el CAMINO de las BICICLETAS,\n"
+	.string "¿cuántos TRIATLETAS había?$"

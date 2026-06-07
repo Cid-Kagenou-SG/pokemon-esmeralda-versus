@@ -67,39 +67,41 @@ LilycoveCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 
 LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
 	.string "Uh…\n"
-	.string "Oh, yes, I'm the MOVE DELETER.\p"
-	.string "I can make POKéMON forget their moves.\p"
-	.string "Would you like me to do that?$"
+	.string "Oh, sí, soy el QUITA-MOVIMIENTOS.\p"
+	.string "Puedo hacer que los Pokémon olviden\n"
+	.string "sus movimientos.\p"
+	.string "¿Quieres que lo haga?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget:
-	.string "Which POKéMON should forget a move?$"
+	.string "¿Qué Pokémon debería olvidar un\n"
+	.string "movimiento?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
-	.string "Which move should be forgotten?$"
+	.string "¿Qué movimiento debería olvidarse?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
-	.string "{STR_VAR_1} knows only one move\n"
-	.string "so it can't be forgotten…$"
+	.string "{STR_VAR_1} solo conoce un movimiento,\n"
+	.string "así que no puede olvidarlo…$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
-	.string "Hm! {STR_VAR_1}'s {STR_VAR_2}?\n"
-	.string "That move should be forgotten?$"
+	.string "¡Hm! ¿{STR_VAR_2} de {STR_VAR_1}?\n"
+	.string "¿Ese movimiento debería olvidarse?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonHasForgottenMove:
-	.string "It worked to perfection!\p"
-	.string "{STR_VAR_1} has forgotten\n"
-	.string "{STR_VAR_2} completely.$"
+	.string "¡Ha funcionado a la perfección!\p"
+	.string "{STR_VAR_1} ha olvidado\n"
+	.string "{STR_VAR_2} por completo.$"
 
 LilycoveCity_MoveDeletersHouse_Text_ComeAgain:
-	.string "Come again if there are moves that\n"
-	.string "need to be forgotten.$"
+	.string "Vuelve si hay movimientos que\n"
+	.string "necesiten olvidarse.$"
 
 LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
-	.string "What?\n"
-	.string "No EGG should know any moves.$"
+	.string "¿Qué?\n"
+	.string "Ningún Huevo debería conocer movimientos.$"
 
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
-	.string "Hm!\p"
-	.string "Your {STR_VAR_1} doesn't seem willing\n"
-	.string "to forget SURF.$"
+	.string "¡Hm!\p"
+	.string "Tu {STR_VAR_1} no parece querer\n"
+	.string "olvidar SURF.$"
 

@@ -65,23 +65,23 @@ EverGrandeCity_SidneysRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_SidneysRoom_Text_IntroSpeech:
-	.string "Welcome, challenger!\n"
-	.string "I'm SIDNEY of the ELITE FOUR.\p"
-	.string "I like that look you're giving me.\n"
-	.string "I guess you'll give me a good match.\l"
-	.string "That's good! Looking real good!\p"
-	.string "All right! You and me, let's enjoy\n"
-	.string "a battle that can only be staged\l"
-	.string "here in the POKéMON LEAGUE!$"
+	.string "¡Bienvenido, retador!\n"
+	.string "Soy Fortunato del Alto Mando.\p"
+	.string "Me gusta esa mirada que me lanzas.\n"
+	.string "Supongo que me darás un buen combate.\l"
+	.string "¡Eso está bien! ¡Se ve realmente bien!\p"
+	.string "¡Muy bien! Tú y yo, disfrutemos de un\n"
+	.string "combate que solo puede celebrarse aquí,\l"
+	.string "en la Liga Pokémon!$"
 
 EverGrandeCity_SidneysRoom_Text_Defeat:
-	.string "Well, how do you like that? I lost!\n"
-	.string "Eh, it was fun, so it doesn't matter.$"
+	.string "Bueno, ¿qué te parece? ¡He perdido!\n"
+	.string "Eh, ha sido divertido, así que no importa.$"
 
 EverGrandeCity_SidneysRoom_Text_PostBattleSpeech:
-	.string "Well, listen to what this loser has\n"
-	.string "to say.\p"
-	.string "You've got what it takes to go far.\n"
-	.string "Now, go on to the next room and enjoy\l"
-	.string "your next battle!$"
+	.string "Bueno, escucha lo que tiene que decir\n"
+	.string "este perdedor.\p"
+	.string "Tienes lo que se necesita para llegar\n"
+	.string "lejos. Ahora, ve a la siguiente sala y\l"
+	.string "¡disfruta de tu siguiente combate!$"
 

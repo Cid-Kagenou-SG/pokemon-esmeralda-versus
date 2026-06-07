@@ -42,7 +42,7 @@ Route106_EventScript_Ned::
 	end
 
 Route106_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "Advice on catching POKéMON with a ROD:\n"
-	.string "Press the A Button if you get a bite.$"
+	.string "CONSEJOS PARA ENTRENADORES\p"
+	.string "Consejos para pescar Pokémon con una\n"
+	.string "CAÑA: Pulsa el Botón A cuando piquen.$"
 

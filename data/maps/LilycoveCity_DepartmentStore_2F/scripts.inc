@@ -63,14 +63,14 @@ LilycoveCity_DepartmentStore_2F_Pokemart2:
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_2F_Text_LearnToUseItemsProperly:
-	.string "Learn to use items properly.\n"
-	.string "That's basic, really.$"
+	.string "Aprende a usar los objetos correctamente.\n"
+	.string "Eso es básico, de verdad.$"
 
 LilycoveCity_DepartmentStore_2F_Text_GoodGiftForHusband:
-	.string "My husband is waiting at home.\n"
-	.string "What would make a good gift for him?$"
+	.string "Mi marido me está esperando en casa.\n"
+	.string "¿Qué sería un buen regalo para él?$"
 
 LilycoveCity_DepartmentStore_2F_Text_StockUpOnItems:
-	.string "I'm leaving on a long journey soon.\n"
-	.string "I need to stock up on items.$"
+	.string "Me voy de viaje largo pronto.\n"
+	.string "Necesito abastecerme de objetos.$"
 

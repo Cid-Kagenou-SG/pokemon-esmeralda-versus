@@ -25,26 +25,27 @@ MossdeepCity_House3_EventScript_DeclineSuperRod::
 	end
 
 MossdeepCity_House3_Text_YouWantSuperRod:
-	.string "Hey there, TRAINER!\n"
-	.string "A SUPER ROD really is super!\p"
-	.string "Say all you want, but this baby can\n"
-	.string "catch POKéMON off the seafloor!\p"
-	.string "What do you think?\n"
-	.string "You want it, don't you?$"
+	.string "¡Eh, entrenador!\n"
+	.string "¡Una Súper Caña es realmente súper!\p"
+	.string "Diga lo que diga, ¡esta cosa puede\n"
+	.string "atrapar Pokémon del fondo del mar!\p"
+	.string "¿Qué te parece?\n"
+	.string "La quieres, ¿verdad?$"
 
 MossdeepCity_House3_Text_SuperRodIsSuper:
-	.string "You bet, you bet!\n"
-	.string "After all, a SUPER ROD is really super!$"
+	.string "¡Claro que sí!\n"
+	.string "¡Después de todo, una Súper Caña es\l"
+	.string "realmente súper!$"
 
 MossdeepCity_House3_Text_TryDroppingRodInWater:
-	.string "If there's any water, try dropping in\n"
-	.string "your ROD and see what bites!$"
+	.string "Si hay agua, ¡prueba a lanzar tu Caña\n"
+	.string "y mira qué pica!$"
 
 MossdeepCity_House3_Text_DontYouLikeToFish:
-	.string "Hunh?\n"
-	.string "Don't you like to fish?$"
+	.string "¿Eh?\n"
+	.string "¿No te gusta pescar?$"
 
 MossdeepCity_House3_Text_GoAfterSeafloorPokemon:
-	.string "Go after the seafloor POKéMON with\n"
-	.string "your SUPER ROD.$"
+	.string "¡Ve a por los Pokémon del fondo del mar\n"
+	.string "con tu Súper Caña!$"
 

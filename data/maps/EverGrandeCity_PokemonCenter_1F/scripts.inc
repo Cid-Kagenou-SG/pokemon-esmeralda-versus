@@ -74,26 +74,26 @@ EverGrandeCity_PokemonCenter_1F_Movement_ScottExit:
 	step_end
 
 EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad:
-	.string "The POKéMON LEAGUE is only a short\n"
-	.string "distance after the VICTORY ROAD.\p"
-	.string "If you've come this far, what choice\n"
-	.string "do you have but to keep going?$"
+	.string "La Liga Pokémon está a poca distancia\n"
+	.string "después del Camino Victoria.\p"
+	.string "Si has llegado hasta aquí, ¿qué otra\n"
+	.string "opción tienes sino seguir adelante?$"
 
 EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon:
-	.string "The long and harrowing VICTORY ROAD…\p"
-	.string "It's like reliving the path one has\n"
-	.string "traveled in life…\p"
-	.string "Believe in your POKéMON and give it\n"
-	.string "your very best!$"
+	.string "El largo y angustioso Camino Victoria…\p"
+	.string "Es como revivir el camino que uno ha\n"
+	.string "recorrido en la vida…\p"
+	.string "¡Cree en tus Pokémon y da lo mejor de\n"
+	.string "ti!$"
 
 EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou:
-	.string "SCOTT: {PLAYER}{KUN}, you've clawed your\n"
-	.string "way up to face the POKéMON LEAGUE!\p"
-	.string "I'm happy for you!\n"
-	.string "You made my cheering worthwhile!\p"
-	.string "{PLAYER}{KUN}, if you were to become\n"
-	.string "the POKéMON LEAGUE CHAMPION…\p"
-	.string "I'll get in touch with you then.\p"
-	.string "Okay, {PLAYER}{KUN}.\n"
-	.string "Go for greatness!$"
+	.string "TRETO: {PLAYER}{KUN}, ¡has llegado a\n"
+	.string "enfrentarte a la Liga Pokémon!\p"
+	.string "¡Me alegro por ti!\n"
+	.string "¡Has hecho que mi apoyo valiera la pena!\p"
+	.string "{PLAYER}{KUN}, si llegaras a convertirte\n"
+	.string "en el Campeón de la Liga Pokémon…\p"
+	.string "Me pondré en contacto contigo entonces.\p"
+	.string "Vale, {PLAYER}{KUN}.\n"
+	.string "¡Ve a por la grandeza!$"
 

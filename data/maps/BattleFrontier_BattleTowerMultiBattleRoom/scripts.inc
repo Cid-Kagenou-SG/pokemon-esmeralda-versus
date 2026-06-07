@@ -438,63 +438,63 @@ BattleFrontier_BattleTowerMultiBattleRoom_Movement_WalkInPlaceLeft:
 	step_end
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor2ndOpponentSet:
-	.string "The 2nd set of opponents is next.\n"
-	.string "Are you ready?$"
+	.string "El 2.º grupo de rivales es el siguiente.\n"
+	.string "¿Estás listo/a?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor3rdOpponentSet:
-	.string "The 3rd set of opponents is next.\n"
-	.string "Are you ready?$"
+	.string "El 3.er grupo de rivales es el siguiente.\n"
+	.string "¿Estás listo/a?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor4thOpponentSet:
-	.string "The 4th set of opponents is next.\n"
-	.string "Are you ready?$"
+	.string "El 4.º grupo de rivales es el siguiente.\n"
+	.string "¿Estás listo/a?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor5thOpponentSet:
-	.string "The 5th set of opponents is next.\n"
-	.string "Are you ready?$"
+	.string "El 5.º grupo de rivales es el siguiente.\n"
+	.string "¿Estás listo/a?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor6thOpponentSet:
-	.string "The 6th set of opponents is next.\n"
-	.string "Are you ready?$"
+	.string "El 6.º grupo de rivales es el siguiente.\n"
+	.string "¿Estás listo/a?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor7thOpponentSet:
-	.string "The 7th set of opponents is next.\n"
-	.string "Are you ready?$"
+	.string "El 7.º grupo de rivales es el siguiente.\n"
+	.string "¿Estás listo/a?$"
 
-@ Unused
+@ Sin usar
 BattleFrontier_BattleTowerMultiBattleRoom_Text_2ndOpponentSetNext:
-	.string "The 2nd set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "El 2.º grupo de rivales es el siguiente.\n"
+	.string "¡Hazlo lo mejor posible!$"
 
-@ Unused
+@ Sin usar
 BattleFrontier_BattleTowerMultiBattleRoom_Text_3rdOpponentSetNext:
-	.string "The 3rd set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "El 3.er grupo de rivales es el siguiente.\n"
+	.string "¡Hazlo lo mejor posible!$"
 
-@ Unused
+@ Sin usar
 BattleFrontier_BattleTowerMultiBattleRoom_Text_4thOpponentSetNext:
-	.string "The 4th set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "El 4.º grupo de rivales es el siguiente.\n"
+	.string "¡Hazlo lo mejor posible!$"
 
-@ Unused
+@ Sin usar
 BattleFrontier_BattleTowerMultiBattleRoom_Text_5thOpponentSetNext:
-	.string "The 5th set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "El 5.º grupo de rivales es el siguiente.\n"
+	.string "¡Hazlo lo mejor posible!$"
 
-@ Unused
+@ Sin usar
 BattleFrontier_BattleTowerMultiBattleRoom_Text_6thOpponentSetNext:
-	.string "The 6th set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "El 6.º grupo de rivales es el siguiente.\n"
+	.string "¡Hazlo lo mejor posible!$"
 
-@ Unused
+@ Sin usar
 BattleFrontier_BattleTowerMultiBattleRoom_Text_7thOpponentSetNext:
-	.string "The 7th set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "El 7.º grupo de rivales es el siguiente.\n"
+	.string "¡Hazlo lo mejor posible!$"
 
 gText_LinkStandby3::
-	.string "Link standby…$"
+	.string "Esperando conexión…$"
 
 gText_YourPartnerHasRetired::
-	.string "Your partner has retired.\p"
-	.string "Your BATTLE ROOM challenge\n"
-	.string "will be canceled.$"
+	.string "Tu compañero/a se ha retirado.\p"
+	.string "Tu desafío de la SALA DE COMBATE\n"
+	.string "quedará cancelado.$"

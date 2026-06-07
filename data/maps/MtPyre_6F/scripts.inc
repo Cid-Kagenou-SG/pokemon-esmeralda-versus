@@ -28,42 +28,44 @@ MtPyre_6F_EventScript_Cedric::
 	end
 
 MtPyre_6F_Text_ValerieIntro:
-	.string "When I'm here…\n"
-	.string "A curious power flows into me…$"
+	.string "Cuando estoy aquí…\n"
+	.string "Un extraño poder fluye hacia mí…$"
 
 MtPyre_6F_Text_ValerieDefeat:
-	.string "The power is ebbing away…$"
+	.string "El poder se está desvaneciendo…$"
 
 MtPyre_6F_Text_ValeriePostBattle:
-	.string "Perhaps the power is from the spirits\n"
-	.string "of POKéMON in fitful sleep here…$"
+	.string "Quizás el poder proviene de los\n"
+	.string "espíritus de los Pokémon que duermen\l"
+	.string "agitados aquí…$"
 
 MtPyre_6F_Text_ValerieRegister:
-	.string "Fufufu… I lost the match, but…\n"
-	.string "I have this little ability…\p"
-	.string "Without ever laying my hands on\n"
-	.string "your POKéNAV… Hiyah!$"
+	.string "Fufufu… Perdí el combate, pero…\n"
+	.string "Tengo esta pequeña habilidad…\p"
+	.string "Sin siquiera tocar tu PokéNav…\n"
+	.string "¡Hiyah!$"
 
 MtPyre_6F_Text_ValerieRematchIntro:
-	.string "Behind you…\n"
-	.string "What is it…$"
+	.string "Detrás de ti…\n"
+	.string "¿Qué es…$"
 
 MtPyre_6F_Text_ValerieRematchDefeat:
-	.string "Something faded away…$"
+	.string "Algo se desvaneció…$"
 
 MtPyre_6F_Text_ValeriePostRematch:
-	.string "The POKéMON at rest here…\n"
-	.string "Sometimes, they play…$"
+	.string "Los Pokémon que descansan aquí…\n"
+	.string "A veces, juegan…$"
 
 MtPyre_6F_Text_CedricIntro:
-	.string "Have you lost your bearings?\n"
-	.string "Have no fear for I am here!$"
+	.string "¿Has perdido el norte?\n"
+	.string "¡No temas, porque yo estoy aquí!$"
 
 MtPyre_6F_Text_CedricDefeat:
-	.string "Weren't you lost?$"
+	.string "¿No estabas perdido?$"
 
 MtPyre_6F_Text_CedricPostBattle:
-	.string "I had this feeling that a lost TRAINER\n"
-	.string "would be panicked and easy to beat.\p"
-	.string "It's dirty and I won't try it again…$"
+	.string "Tenía la sensación de que un entrenador\n"
+	.string "perdido estaría asustado y fácil de\l"
+	.string "vencer.\p"
+	.string "Es sucio y no lo intentaré otra vez…$"
 

@@ -59,38 +59,39 @@ FortreeCity_House1_EventScript_Zigzagoon::
 	end
 
 FortreeCity_House1_Text_YouWillTradeWontYou:
-	.string "Wrooooaaar! I need it!\n"
-	.string "I have to get me a {STR_VAR_1}!\l"
-	.string "I'll do anything for it!\p"
-	.string "…Uh… Did you hear that?\n"
-	.string "My shout from the bottom of my heart?\p"
-	.string "Having heard that, you will trade\n"
-	.string "your {STR_VAR_1} for my {STR_VAR_2},\l"
-	.string "won't you?$"
+	.string "¡Wrooooaaar! ¡Lo necesito!\n"
+	.string "¡Tengo que conseguir un {STR_VAR_1}!\l"
+	.string "¡Haré lo que sea por él!\p"
+	.string "…Uh… ¿Has oído eso?\n"
+	.string "¿Mi grito desde el fondo de mi corazón?\p"
+	.string "Habiéndolo oído, intercambiarás tu\n"
+	.string "{STR_VAR_1} por mi {STR_VAR_2},\l"
+	.string "¿verdad?$"
 
 FortreeCity_House1_Text_MonYouTakeCare:
-	.string "Oh, yeah, right on!\p"
-	.string "{STR_VAR_1}, welcome!\n"
-	.string "{STR_VAR_2}, you take care!$"
+	.string "¡Oh, sí, claro que sí!\p"
+	.string "¡{STR_VAR_1}, bienvenido!\n"
+	.string "¡{STR_VAR_2}, cuídate!$"
 
 FortreeCity_House1_Text_ThisIsntAMon:
-	.string "Uh, no, I don't think so.\n"
-	.string "That isn't a {STR_VAR_1}.$"
+	.string "Uh, no, no lo creo.\n"
+	.string "Ese no es un {STR_VAR_1}.$"
 
 FortreeCity_House1_Text_YouWontTradeMe:
-	.string "No? You won't trade me?\n"
-	.string "Even after I bared my heart to you?$"
+	.string "¿No? ¿No me lo intercambias?\n"
+	.string "¿Incluso después de que te haya\l"
+	.string "abierto mi corazón?$"
 
 FortreeCity_House1_Text_GoingToMakeVolbeatStrong:
-	.string "I'm going to make VOLBEAT super\n"
-	.string "strong from this moment on!\p"
-	.string "I hope you do the same with PLUSLE!$"
+	.string "¡Voy a hacer que Volbeat sea super\n"
+	.string "fuerte desde este momento!\p"
+	.string "¡Espero que hagas lo mismo con Plusle!$"
 
 FortreeCity_House1_Text_TradingMemoriesWithOthers:
-	.string "Trading POKéMON with others…\p"
-	.string "It's as if you're trading your own\n"
-	.string "memories with other people.$"
+	.string "Intercambiar Pokémon con otros…\p"
+	.string "Es como si estuvieras intercambiando\n"
+	.string "tus propios recuerdos con otras personas.$"
 
 FortreeCity_House1_Text_Zigzagoon:
-	.string "ZIGZAGOON: Gumomoh?$"
+	.string "ZIGZAGOON: ¿Zebraa?$"
 

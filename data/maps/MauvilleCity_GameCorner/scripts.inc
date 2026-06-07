@@ -627,152 +627,154 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	end
 
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "This is MAUVILLE GAME CORNER.$"
+	.string "Este es el CASINO de MALVALONA.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
-	.string "Okay, you wanted some COINS for\n"
-	.string "the games?\p"
-	.string "But you don't have a COIN CASE for\n"
-	.string "stowing the COINS.$"
+	.string "Vale, ¿querías FICHAS para los\n"
+	.string "juegos?\p"
+	.string "Pero no tienes una CAJA FICHAS para\n"
+	.string "guardarlas.$"
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
-	.string "Were you looking for COINS?\p"
-	.string "It's ¥1000 for 50 COINS.\n"
-	.string "Would you like some?$"
+	.string "¿Buscabas FICHAS?\p"
+	.string "Son 1000¥ por 50 FICHAS.\n"
+	.string "¿Quieres algunas?$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
-	.string "Thank you very much!\n"
-	.string "Here are your COINS!$"
+	.string "¡Muchas gracias!\n"
+	.string "¡Aquí tienes tus FICHAS!$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
-	.string "Um… You don't appear to have\n"
-	.string "enough money…$"
+	.string "Mmm… Parece que no tienes\n"
+	.string "suficiente dinero…$"
 
 MauvilleCity_GameCorner_Text_CoinCaseIsFull:
-	.string "Oh?\n"
-	.string "Your COIN CASE is full.$"
+	.string "¿Oh?\n"
+	.string "Tu CAJA FICHAS está llena.$"
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
-	.string "Oh… You don't need COINS, then?\n"
-	.string "Good luck on your adventure!$"
+	.string "Oh… ¿Entonces no necesitas FICHAS?\n"
+	.string "¡Buena suerte en tu aventura!$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
-	.string "Welcome.\p"
-	.string "You can exchange your COINS for\n"
-	.string "prizes here.$"
+	.string "Bienvenido.\p"
+	.string "Aquí puedes cambiar tus FICHAS por\n"
+	.string "premios.$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
-	.string "Which prize would you like?$"
+	.string "¿Qué premio te gustaría?$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
-	.string "So your choice is\n"
-	.string "the {STR_VAR_1} {STR_VAR_2}?$"
+	.string "Así que eliges\n"
+	.string "la {STR_VAR_1} {STR_VAR_2}?$"
 
 MauvilleCity_GameCorner_Text_SendToYourHomePC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "¡Gracias!\n"
+	.string "Lo enviaremos a tu PC de casa.$"
 
 MauvilleCity_GameCorner_Text_NotEnoughCoins:
-	.string "You don't have enough COINS.$"
+	.string "No tienes suficientes FICHAS.$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
-	.string "There isn't any room available for\n"
-	.string "placing {STR_VAR_1}.$"
+	.string "No hay espacio para colocar\n"
+	.string "{STR_VAR_1}.$"
 
 MauvilleCity_GameCorner_Text_OhIsThatSo:
-	.string "Oh, is that so? \n"
-	.string "You need to save some COINS before\l"
-	.string "coming back here.$"
+	.string "Oh, ¿es eso cierto?\n"
+	.string "Necesitas ahorrar algunas FICHAS antes\l"
+	.string "de volver aquí.$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
-	.string "So your choice is {STR_VAR_1}?$"
+	.string "Así que eliges {STR_VAR_1}?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "¡Aquí tienes!$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_CantCarryAnyMore:
-	.string "Oh, you can't carry any more than that.$"
+	.string "Oh, no puedes llevar nada más.$"
 
 MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
-	.string "I made a mistake and got two of\n"
-	.string "the same DOLLS.\p"
-	.string "Would you like one of them?$"
+	.string "Me equivoqué y compré dos\n"
+	.string "MUÑECOS iguales.\p"
+	.string "¿Quieres uno?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
-	.string "Here you go!$"
+	.string "¡Aquí tienes!$"
 
 MauvilleCity_GameCorner_Text_YouWantItButNotNow:
-	.string "Huh?\n"
-	.string "You want it, but not right now?$"
+	.string "¿Eh?\n"
+	.string "¿Lo quieres, pero no ahora?$"
 
 MauvilleCity_GameCorner_Text_DontBeNegative:
-	.string "Oh, don't be so negative!\n"
-	.string "You can have this!$"
+	.string "¡Oh, no seas tan negativo!\n"
+	.string "¡Puedes quedártelo!$"
 
 MauvilleCity_GameCorner_Text_CantWinJackpot:
-	.string "There's a prize I want, but I can't win\n"
-	.string "the jackpot.$"
+	.string "Hay un premio que quiero, pero no\n"
+	.string "puedo ganar el bote.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
-	.string "Hey, kid, if you want to play here,\n"
-	.string "you need a COIN CASE.\p"
-	.string "I think the young lady next door\n"
-	.string "had one. Go see her!$"
+	.string "Oye, chaval, si quieres jugar aquí,\n"
+	.string "necesitas una CAJA FICHAS.\p"
+	.string "Creo que la chica de al lado tenía una.\n"
+	.string "¡Ve a verla!$"
 
 MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
-	.string "My luck can only last so long.\n"
-	.string "This is too much for me.\l"
-	.string "Here, take some COINS!$"
+	.string "Mi suerte no puede durar para siempre.\n"
+	.string "Esto es demasiado para mí.\l"
+	.string "¡Toma, toma algunas FICHAS!$"
 
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
-	.string "MAUVILLE has something for\n"
-	.string "everyone.\p"
-	.string "For me, it's the GAME CORNER.$"
+	.string "MALVALONA tiene algo para\n"
+	.string "todo el mundo.\p"
+	.string "Para mí, es el CASINO.$"
 
 MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates:
-	.string "The ROULETTE tables have different\n"
-	.string "rates.\p"
-	.string "Check your COINS if you're going to\n"
-	.string "pick a table.$"
+	.string "Las mesas de RULETA tienen diferentes\n"
+	.string "tasas.\p"
+	.string "Comprueba tus FICHAS antes de elegir\n"
+	.string "una mesa.$"
 
 MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime:
-	.string "It's easy to lose track of time in here. \n"
-	.string "I should get back to work.$"
+	.string "Es fácil perder la noción del tiempo\n"
+	.string "aquí dentro. Debería volver al trabajo.$"
 
 MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
-	.string "COINS are needed to play here\n"
-	.string "in the GAME CORNER.$"
+	.string "Se necesitan FICHAS para jugar aquí\n"
+	.string "en el CASINO.$"
 
 MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
-	.string "This ROULETTE thing…\n"
-	.string "It's rather demanding.\p"
-	.string "Win or lose, it's only by luck.$"
+	.string "Esta RULETA…\n"
+	.string "Es bastante exigente.\p"
+	.string "Ganar o perder, es solo cuestión de\n"
+	.string "suerte.$"
 
 MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
-	.string "Up to three COINS can be used to play\n"
-	.string "the SLOTS.$"
+	.string "Se pueden usar hasta tres FICHAS para\n"
+	.string "jugar a las TRAGAPERRAS.$"
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
-	.string "It's very difficult to make it stop\n"
-	.string "right on “7.”\p"
-	.string "If it stops on “7” during the REEL TIME\n"
-	.string "bonus game, you'll receive extra COINS.$"
+	.string "Es muy difícil hacer que se detenga\n"
+	.string "justo en el “7”.\p"
+	.string "Si se detiene en el “7” durante el\n"
+	.string "juego bonus TIEMPO TAMBOR, recibirás\l"
+	.string "FICHAS extra.$"
 
 MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
-	.string "Here's some information for you\n"
-	.string "about the SLOTS.\p"
-	.string "The more lightning bolts you stock,\n"
-	.string "the more REEL TIME chances you get.\p"
-	.string "In a game with the maximum five\n"
-	.string "REEL TIME chances…\p"
-	.string "It is possible to receive four regular\n"
-	.string "bonuses, then a big bonus.\p"
-	.string "That would total 660 COINS, but it's\n"
-	.string "very difficult to get.$"
+	.string "Aquí tienes información sobre las\n"
+	.string "TRAGAPERRAS.\p"
+	.string "Cuanto más rayos acumules, más\n"
+	.string "oportunidades de TIEMPO TAMBOR tendrás.\p"
+	.string "En un juego con el máximo de cinco\n"
+	.string "oportunidades de TIEMPO TAMBOR…\p"
+	.string "Es posible recibir cuatro bonos\n"
+	.string "regulares, y luego un bono grande.\p"
+	.string "Eso sumaría 660 FICHAS, pero es muy\n"
+	.string "difícil de conseguir.$"
 
 MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase:
-	.string "You can't play if you don't have\n"
-	.string "a COIN CASE.$"
+	.string "No puedes jugar si no tienes una\n"
+	.string "CAJA FICHAS.$"
 
