@@ -5,6 +5,7 @@
 #include "battle_factory.h"
 #include "battle_setup.h"
 #include "data.h"
+#include "external_ai_control.h"
 #include "item.h"
 #include "pokemon.h"
 #include "random.h"
@@ -381,8 +382,21 @@ void BattleAI_SetupAIData(u8 defaultScoreMoves)
 
 u8 BattleAI_ChooseMoveOrAction(void)
 {
-    u16 savedCurrentMove = gCurrentMove;
+    u16 savedCurrentMove;
     u8 ret;
+    u8 externalMove;
+
+    // === CONTROL EXTERNO (Discord) ===
+    externalMove = TryGetExternalMoveChoice();
+    if (externalMove != 0xFF)
+    {
+        AI_THINKING_STRUCT->aiAction |= AI_ACTION_DONE;
+        AI_THINKING_STRUCT->movesetIndex = externalMove;
+        return externalMove;
+    }
+    // === FIN CONTROL EXTERNO ===
+
+    savedCurrentMove = gCurrentMove;
 
     if (!(gBattleTypeFlags & BATTLE_TYPE_DOUBLE))
         ret = ChooseMoveOrAction_Singles();

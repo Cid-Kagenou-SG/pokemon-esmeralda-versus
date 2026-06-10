@@ -19,6 +19,7 @@
 #include "dma3.h"
 #include "event_data.h"
 #include "evolution_scene.h"
+#include "external_ai_control.h"
 #include "graphics.h"
 #include "gpu_regs.h"
 #include "international_string_util.h"
@@ -1862,6 +1863,7 @@ static void CB2_HandleStartMultiBattle(void)
 
 void BattleMainCB2(void)
 {
+    ResetExternalAI();
     AnimateSprites();
     BuildOamBuffer();
     RunTextPrinters();
