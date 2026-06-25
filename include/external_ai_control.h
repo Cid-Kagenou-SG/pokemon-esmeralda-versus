@@ -8,5 +8,6 @@ extern u8 gExternalAITimeout;
 bool8 HasExternalAICommand(void);
 bool8 GetExternalAICommand(u8 *action, u8 *param);
 void ResetExternalAI(void);
+u8 TryGetExternalMoveChoice(void);
 
-#endif // GUARD_EXTERNAL_AI_CONTROL_H
+#endif

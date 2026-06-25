@@ -380,6 +380,30 @@ void BattleAI_SetupAIData(u8 defaultScoreMoves)
         AI_THINKING_STRUCT->aiFlags |= AI_SCRIPT_DOUBLE_BATTLE; // act smart in doubles and don't attack your partner
 }
 
+// Usamos EWRAM_DATA para que el compilador no las borre
+EWRAM_DATA u8 gExtAI_Command = 0;
+EWRAM_DATA u8 gExtAI_Param = 0;
+
+// Si tienes la función ResetExternalAI, actualízala para usar los nombres nuevos
+void ResetExternalAI(void) {
+    gExtAI_Command = 0;
+    gExtAI_Param = 0;
+}
+
+// Nuestra función personalizada
+u8 TryGetExternalMoveChoice(void) {
+    // 1 = Movimiento
+    if (gExtAI_Command == 1) {
+        u8 moveSlot = gExtAI_Param;
+        gExtAI_Command = 0;
+        gExtAI_Param = 0;
+        return moveSlot;
+    }
+    
+    return 0xFF;
+}
+
+// La función original modificada
 u8 BattleAI_ChooseMoveOrAction(void)
 {
     u16 savedCurrentMove;
@@ -391,7 +415,11 @@ u8 BattleAI_ChooseMoveOrAction(void)
     if (externalMove != 0xFF)
     {
         AI_THINKING_STRUCT->aiAction |= AI_ACTION_DONE;
-        AI_THINKING_STRUCT->movesetIndex = externalMove;
+        
+        if (externalMove != 4) {
+            AI_THINKING_STRUCT->movesetIndex = externalMove;
+        }
+        
         return externalMove;
     }
     // === FIN CONTROL EXTERNO ===

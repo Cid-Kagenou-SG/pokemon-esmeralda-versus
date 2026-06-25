@@ -1863,7 +1863,7 @@ static void CB2_HandleStartMultiBattle(void)
 
 void BattleMainCB2(void)
 {
-    ResetExternalAI();
+    //ResetExternalAI();
     AnimateSprites();
     BuildOamBuffer();
     RunTextPrinters();
